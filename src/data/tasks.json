@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Clean the Garage",
+    "description": "Please clean the all the trash from the Garage",
+    "done": false
+  },
+  {
+    "id": 1,
+    "name": "Make Dinner",
+    "description": "We would like Pizza for dinner this time",
+    "done": false
+  },
+  {
+    "id": 2,
+    "name": "Build a new Shelter",
+    "description": "We need a shelter for the incomming issues on the Pandemic",
+    "done": false
+  }
+]
